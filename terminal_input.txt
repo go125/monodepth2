@@ -1,1 +1,1 @@
-python export_gt_depth.py --data_path /home/ubuntu/data/raw_data_KITTI --split "eigen"
+python export_gt_depth.py --data_path /home/ubuntu/data/raw_data_KITTI --split "eigen_benchmark"
