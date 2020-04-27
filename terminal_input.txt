@@ -1,1 +1,3 @@
 python export_gt_depth.py --data_path /home/ubuntu/data/raw_data_KITTI --split "eigen_benchmark"
+
+python evaluate_depth.py --eval_mono
