@@ -1,4 +1,4 @@
-python export_gt_depth.py --data_path kitti_data --split eigen
+python export_gt_depth.py --data_path kitti_data --split eigen_benchmark
 
 python evaluate_depth.py --eval_mono
 
